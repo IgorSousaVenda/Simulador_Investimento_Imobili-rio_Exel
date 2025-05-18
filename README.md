@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&pause=1000&color=f5f5f5&center=true&width=600&lines=💲SIMULADOR+FUNDO+INVESTIMENTO💲)**
 
 
@@ -68,3 +69,6 @@ Em palavras simples o fundo de investimento é um instrumento de investimento co
 <img src="Projectos_Exel\img\ISV invest.png">
  
   
+=======
+
+>>>>>>> f0c4ea76d09e454886c51f30b5d0ebf42fc098b6
