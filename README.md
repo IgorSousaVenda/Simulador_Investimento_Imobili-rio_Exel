@@ -38,7 +38,7 @@ Em palavras simples o fundo de investimento é um instrumento de investimento co
 
 - [ ]  Não são marcadas a mercado.
 - [ ]  Podem ser resgatadas a qualquer momento.
-- [ ]  Só podem ser resgatadas ao término do prazo de duração do fundo ou em sua liquidação.
+- [X]  Só podem ser resgatadas ao término do prazo de duração do fundo ou em sua liquidação.
 - [ ]  prazo de duração do fundo ou em sua liquidação.
 - [ ]  Pertencem a um único cotista.
 
@@ -46,4 +46,4 @@ Em palavras simples o fundo de investimento é um instrumento de investimento co
 - [ ]  Aplicações e resgates a cada 90 dias
 - [ ]  Aplicações com vencimento
 - [ ]  Resgates com vencimento
-- [ ]  Aplicações e resgates a qualquer momento
+- [X]  Aplicações e resgates a qualquer momento
